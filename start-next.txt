@@ -14,3 +14,4 @@ You can use markdown in many of the text fields on GitHub to add extra formattin
 and the GitHub preview will apply the markdown formating.
 
 LIFE IS GOOD IN AUSTRALIA 
+I LOVE THE BEACHES
